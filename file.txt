@@ -1,4 +1,5 @@
 Test #2
 
 Test push : OK
-Test pull 
+Test pull : OK
+
